@@ -4,7 +4,7 @@ Hey! This is my library management project for college. Built it using Java to h
 
 ## About Me
 
-**Name:**BHAV SIMAR SINGH 
+**Name:**BHAV SIMAR
 **Roll No:** 24BSA10145  
 **Branch:** BTech CSE - Cloud Computing (2nd Year)  
 **College:** VIT Bhopal  
