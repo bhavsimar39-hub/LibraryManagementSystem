@@ -1,3 +1,4 @@
 TransactionID,BookID,StudentID,IssueDate,DueDate,ActualReturnDate,Fine,IsReturned
 TXN1,B001,24bsa10145,2025-11-19,2025-12-03,2025-11-19,0.0,true
 TXN2,B001,24bsa10137,2025-11-19,2025-12-03,2025-11-19,0.0,true
+TXN3,B002,24bsa10071,2025-11-20,2025-12-3,2025-11-19,0.0,true
